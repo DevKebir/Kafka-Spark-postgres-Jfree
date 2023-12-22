@@ -1,0 +1,397 @@
+annee_universitaire,departement,degre_etudes,total_inscrits
+2012-13,Paris,BAC + 1,49566
+2012-13,Paris,BAC + 4,42139
+2012-13,Paris,BAC + 5,36123
+2012-13,Paris,BAC + 6 et plus,34420
+2012-13,Paris,BAC + 3,34343
+2012-13,Paris,BAC + 2,29854
+2012-13,Nord,BAC + 1,26847
+2012-13,Rh?ne,BAC + 1,24254
+2012-13,Haute-Garonne,BAC + 1,22133
+2012-13,Rh?ne,BAC + 3,18798
+2012-13,Bouches-du-Rh?ne,BAC + 1,17568
+2012-13,Nord,BAC + 3,17383
+2012-13,Gironde,BAC + 1,17039
+2012-13,H?rault,BAC + 1,16996
+2012-13,Rh?ne,BAC + 4,16224
+2012-13,Rh?ne,BAC + 2,15863
+2012-13,Rh?ne,BAC + 5,15671
+2012-13,Meurthe-et-Moselle,BAC + 1,15502
+2012-13,Ille-et-Vilaine,BAC + 1,14919
+2012-13,Seine-Saint-Denis,BAC + 1,14578
+2012-13,Haute-Garonne,BAC + 3,14172
+2012-13,Nord,BAC + 2,13994
+2012-13,Nord,BAC + 4,13320
+2012-13,Haute-Garonne,BAC + 2,13128
+2012-13,Haute-Garonne,BAC + 4,12337
+2012-13,Rh?ne,BAC + 6 et plus,12118
+2012-13,Bas-Rhin,BAC + 1,11911
+2012-13,Is?re,BAC + 1,11841
+2012-13,Nord,BAC + 5,11447
+2012-13,Haute-Garonne,BAC + 5,11394
+2012-13,Bouches-du-Rh?ne,BAC + 5,11310
+2012-13,Seine-Maritime,BAC + 1,11257
+2012-13,Gironde,BAC + 5,11022
+2012-13,H?rault,BAC + 5,10739
+2012-13,H?rault,BAC + 3,10591
+2012-13,Bouches-du-Rh?ne,BAC + 4,10484
+2012-13,Gironde,BAC + 3,10468
+2012-13,Gironde,BAC + 4,9920
+2012-13,Loire-Atlantique,BAC + 1,9912
+2012-13,Meurthe-et-Moselle,BAC + 3,9890
+2012-13,Gironde,BAC + 2,9836
+2012-13,Calvados,BAC + 1,9812
+2012-13,Essonne,BAC + 1,9779
+2012-13,Bouches-du-Rh?ne,BAC + 3,9771
+2012-13,H?rault,BAC + 4,9645
+2012-13,Bouches-du-Rh?ne,BAC + 2,9538
+2012-13,Puy-de-D?me,BAC + 1,9395
+2012-13,Hauts-de-Seine,BAC + 1,9148
+2012-13,Essonne,BAC + 3,9072
+2012-13,Bas-Rhin,BAC + 5,8797
+2012-13,H?rault,BAC + 2,8777
+2012-13,Haute-Garonne,BAC + 6 et plus,8672
+2012-13,Somme,BAC + 1,8484
+2012-13,Is?re,BAC + 3,8461
+2012-13,Ille-et-Vilaine,BAC + 3,8449
+2012-13,Meurthe-et-Moselle,BAC + 2,8399
+2012-13,Ille-et-Vilaine,BAC + 2,8265
+2012-13,Bas-Rhin,BAC + 3,8138
+2012-13,Val-de-Marne,BAC + 1,8086
+2012-13,C?te-d'Or,BAC + 1,8050
+2012-13,Alpes-Maritimes,BAC + 1,8015
+2012-13,Seine-Saint-Denis,BAC + 3,7798
+2012-13,Seine-Saint-Denis,BAC + 2,7608
+2012-13,Is?re,BAC + 4,7462
+2012-13,Meurthe-et-Moselle,BAC + 5,7421
+2012-13,Ille-et-Vilaine,BAC + 4,7389
+2012-13,Indre-et-Loire,BAC + 1,7381
+2012-13,Hauts-de-Seine,BAC + 4,7376
+2012-13,Gironde,BAC + 6 et plus,7336
+2012-13,Bouches-du-Rh?ne,BAC + 6 et plus,7267
+2012-13,Marne,BAC + 1,7161
+2012-13,Bas-Rhin,BAC + 4,7126
+2012-13,Nord,BAC + 6 et plus,7036
+2012-13,Is?re,BAC + 5,6993
+2012-13,Bas-Rhin,BAC + 2,6909
+2012-13,Meurthe-et-Moselle,BAC + 4,6879
+2012-13,Is?re,BAC + 2,6832
+2012-13,Val-de-Marne,BAC + 3,6552
+2012-13,Ille-et-Vilaine,BAC + 5,6501
+2012-13,La R?union,BAC + 1,6400
+2012-13,Hauts-de-Seine,BAC + 3,6380
+2012-13,Vienne,BAC + 1,6358
+2012-13,Seine-Saint-Denis,BAC + 4,6328
+2012-13,Essonne,BAC + 4,6325
+2012-13,Hauts-de-Seine,BAC + 5,6288
+2012-13,Doubs,BAC + 1,6274
+2012-13,Essonne,BAC + 2,6187
+2012-13,Loire-Atlantique,BAC + 3,6154
+2012-13,Seine-Maritime,BAC + 2,6131
+2012-13,Loire,BAC + 1,6129
+2012-13,Puy-de-D?me,BAC + 3,5826
+2012-13,Seine-Maritime,BAC + 3,5781
+2012-13,H?rault,BAC + 6 et plus,5752
+2012-13,Essonne,BAC + 5,5646
+2012-13,Loire-Atlantique,BAC + 2,5594
+2012-13,Hauts-de-Seine,BAC + 2,5569
+2012-13,Is?re,BAC + 6 et plus,5517
+2012-13,Loire-Atlantique,BAC + 4,5499
+2012-13,Meurthe-et-Moselle,BAC + 6 et plus,5475
+2012-13,Seine-Saint-Denis,BAC + 5,5445
+2012-13,Guadeloupe,BAC + 1,5432
+2012-13,Bas-Rhin,BAC + 6 et plus,5392
+2012-13,Loire-Atlantique,BAC + 5,5293
+2012-13,Essonne,BAC + 6 et plus,5274
+2012-13,Finist?re,BAC + 1,5258
+2012-13,Maine-et-Loire,BAC + 1,5070
+2012-13,Somme,BAC + 4,4911
+2012-13,Val-de-Marne,BAC + 5,4856
+2012-13,Puy-de-D?me,BAC + 2,4732
+2012-13,Val-d'Oise,BAC + 1,4700
+2012-13,Yvelines,BAC + 1,4631
+2012-13,C?te-d'Or,BAC + 3,4585
+2012-13,Ille-et-Vilaine,BAC + 6 et plus,4566
+2012-13,Puy-de-D?me,BAC + 5,4534
+2012-13,Loiret,BAC + 1,4527
+2012-13,Puy-de-D?me,BAC + 4,4486
+2012-13,Val-de-Marne,BAC + 2,4474
+2012-13,C?te-d'Or,BAC + 2,4446
+2012-13,Loire-Atlantique,BAC + 6 et plus,4404
+2012-13,Val-de-Marne,BAC + 4,4367
+2012-13,Maine-et-Loire,BAC + 3,4261
+2012-13,Somme,BAC + 2,4241
+2012-13,Haute-Vienne,BAC + 1,4236
+2012-13,Calvados,BAC + 3,4196
+2012-13,Calvados,BAC + 2,4155
+2012-13,Seine-Maritime,BAC + 4,4153
+2012-13,Alpes-Maritimes,BAC + 2,4074
+2012-13,Indre-et-Loire,BAC + 2,4033
+2012-13,Vienne,BAC + 5,3998
+2012-13,Marne,BAC + 2,3952
+2012-13,Vienne,BAC + 3,3936
+2012-13,Seine-Maritime,BAC + 5,3872
+2012-13,Pyr?n?es-Atlantiques,BAC + 1,3869
+2012-13,Savoie,BAC + 1,3848
+2012-13,Indre-et-Loire,BAC + 3,3847
+2012-13,Marne,BAC + 3,3836
+2012-13,Alpes-Maritimes,BAC + 3,3824
+2012-13,Vienne,BAC + 4,3804
+2012-13,C?te-d'Or,BAC + 4,3662
+2012-13,Alpes-Maritimes,BAC + 4,3657
+2012-13,Seine-Maritime,BAC + 6 et plus,3651
+2012-13,Doubs,BAC + 3,3613
+2012-13,Doubs,BAC + 2,3581
+2012-13,Pas-de-Calais,BAC + 1,3575
+2012-13,Somme,BAC + 3,3548
+2012-13,Seine-Saint-Denis,BAC + 6 et plus,3546
+2012-13,Calvados,BAC + 5,3538
+2012-13,Indre-et-Loire,BAC + 4,3483
+2012-13,Vienne,BAC + 2,3469
+2012-13,Loire,BAC + 3,3416
+2012-13,Sarthe,BAC + 1,3375
+2012-13,C?te-d'Or,BAC + 5,3367
+2012-13,Val-d'Oise,BAC + 3,3322
+2012-13,Finist?re,BAC + 3,3316
+2012-13,C?te-d'Or,BAC + 6 et plus,3278
+2012-13,Calvados,BAC + 4,3248
+2012-13,Haute-Vienne,BAC + 3,3227
+2012-13,Maine-et-Loire,BAC + 4,3194
+2012-13,Vienne,BAC + 6 et plus,3151
+2012-13,Loire,BAC + 2,3064
+2012-13,Var,BAC + 1,3032
+2012-13,Seine-et-Marne,BAC + 3,3024
+2012-13,Maine-et-Loire,BAC + 2,3018
+2012-13,Alpes-Maritimes,BAC + 5,2985
+2012-13,Finist?re,BAC + 2,2936
+2012-13,Savoie,BAC + 3,2911
+2012-13,Doubs,BAC + 4,2884
+2012-13,Alpes-Maritimes,BAC + 6 et plus,2865
+2012-13,Yvelines,BAC + 3,2790
+2012-13,Vaucluse,BAC + 1,2781
+2012-13,Loiret,BAC + 2,2713
+2012-13,Indre-et-Loire,BAC + 5,2710
+2012-13,Loiret,BAC + 3,2692
+2012-13,Indre-et-Loire,BAC + 6 et plus,2683
+2012-13,Puy-de-D?me,BAC + 6 et plus,2657
+2012-13,Doubs,BAC + 5,2575
+2012-13,Yvelines,BAC + 4,2563
+2012-13,Val-d'Oise,BAC + 4,2560
+2012-13,Pyr?n?es-Orientales,BAC + 1,2527
+2012-13,Savoie,BAC + 2,2526
+2012-13,Maine-et-Loire,BAC + 5,2519
+2012-13,Seine-et-Marne,BAC + 1,2518
+2012-13,Calvados,BAC + 6 et plus,2515
+2012-13,Somme,BAC + 6 et plus,2515
+2012-13,Doubs,BAC + 6 et plus,2495
+2012-13,Yvelines,BAC + 2,2466
+2012-13,Marne,BAC + 4,2447
+2012-13,Haute-Vienne,BAC + 2,2431
+2012-13,Val-d'Oise,BAC + 2,2430
+2012-13,Val-d'Oise,BAC + 5,2429
+2012-13,Yvelines,BAC + 5,2417
+2012-13,Morbihan,BAC + 3,2416
+2012-13,Finist?re,BAC + 4,2403
+2012-13,Sarthe,BAC + 3,2334
+2012-13,Finist?re,BAC + 6 et plus,2316
+2012-13,Marne,BAC + 6 et plus,2315
+2012-13,Paris,Inf?rieur ou ?gal au baccalaur?at,2280
+2012-13,Pyr?n?es-Atlantiques,BAC + 2,2279
+2012-13,Morbihan,BAC + 1,2250
+2012-13,Finist?re,BAC + 5,2242
+2012-13,Val-de-Marne,BAC + 6 et plus,2217
+2012-13,Maine-et-Loire,BAC + 6 et plus,2206
+2012-13,Yvelines,BAC + 6 et plus,2195
+2012-13,Haut-Rhin,BAC + 1,2186
+2012-13,Charente-Maritime,BAC + 1,2147
+2012-13,Marne,BAC + 5,2095
+2012-13,Guadeloupe,BAC + 2,2094
+2012-13,Pyr?n?es-Atlantiques,BAC + 3,2080
+2012-13,Pas-de-Calais,BAC + 3,1986
+2012-13,Loire,BAC + 5,1976
+2012-13,Pas-de-Calais,BAC + 5,1932
+2012-13,La R?union,BAC + 2,1903
+2012-13,Haut-Rhin,BAC + 3,1881
+2012-13,Haute-Vienne,BAC + 6 et plus,1873
+2012-13,Pas-de-Calais,BAC + 2,1868
+2012-13,Guadeloupe,BAC + 3,1827
+2012-13,Gard,BAC + 1,1807
+2012-13,Hauts-de-Seine,BAC + 6 et plus,1791
+2012-13,Seine-et-Marne,BAC + 2,1787
+2012-13,Loire,BAC + 4,1784
+2012-13,Sarthe,BAC + 2,1783
+2012-13,Seine-et-Marne,BAC + 5,1771
+2012-13,Loiret,BAC + 4,1751
+2012-13,Morbihan,BAC + 2,1697
+2012-13,Pyr?n?es-Orientales,BAC + 3,1680
+2012-13,Var,BAC + 3,1677
+2012-13,La R?union,BAC + 3,1671
+2012-13,Var,BAC + 2,1659
+2012-13,Pas-de-Calais,BAC + 4,1652
+2012-13,Savoie,BAC + 4,1650
+2012-13,Haute-Vienne,BAC + 5,1630
+2012-13,Gironde,Inf?rieur ou ?gal au baccalaur?at,1614
+2012-13,Loiret,BAC + 5,1596
+2012-13,Haute-Vienne,BAC + 4,1575
+2012-13,Savoie,BAC + 5,1528
+2012-13,Charente-Maritime,BAC + 3,1523
+2012-13,Loire,BAC + 6 et plus,1518
+2012-13,Charente-Maritime,BAC + 2,1485
+2012-13,Sarthe,BAC + 4,1480
+2012-13,Guadeloupe,BAC + 5,1460
+2012-13,Seine-et-Marne,BAC + 4,1446
+2012-13,Polyn?sie Fran?aise,BAC + 1,1431
+2012-13,Pyr?n?es-Atlantiques,BAC + 5,1430
+2012-13,Seine-et-Marne,BAC + 6 et plus,1416
+2012-13,Haut-Rhin,BAC + 2,1402
+2012-13,Pyr?n?es-Orientales,BAC + 2,1364
+2012-13,Nouvelle-Cal?donie,BAC + 1,1352
+2012-13,Guadeloupe,BAC + 4,1350
+2012-13,Tarn,BAC + 1,1343
+2012-13,Pyr?n?es-Atlantiques,BAC + 4,1326
+2012-13,Vaucluse,BAC + 3,1245
+2012-13,Haute-Corse,BAC + 1,1243
+2012-13,Somme,BAC + 5,1226
+2012-13,Vaucluse,BAC + 2,1210
+2012-13,Nord,Inf?rieur ou ?gal au baccalaur?at,1202
+2012-13,Guadeloupe,BAC + 6 et plus,1191
+2012-13,Sarthe,BAC + 5,1179
+2012-13,Oise,BAC + 5,1165
+2012-13,La R?union,BAC + 4,1144
+2012-13,Pyr?n?es-Orientales,BAC + 5,1125
+2012-13,Var,BAC + 5,1100
+2012-13,Pyr?n?es-Orientales,BAC + 4,1100
+2012-13,Haute-Garonne,Inf?rieur ou ?gal au baccalaur?at,1098
+2012-13,La R?union,BAC + 5,1079
+2012-13,Haut-Rhin,BAC + 5,987
+2012-13,Oise,BAC + 4,979
+2012-13,Tarn,BAC + 3,969
+2012-13,Morbihan,BAC + 4,942
+2012-13,Haut-Rhin,BAC + 4,942
+2012-13,Charente-Maritime,BAC + 4,924
+2012-13,Rh?ne,Inf?rieur ou ?gal au baccalaur?at,922
+2012-13,Charente-Maritime,BAC + 5,868
+2012-13,Morbihan,BAC + 5,825
+2012-13,Var,BAC + 4,816
+2012-13,Pyr?n?es-Orientales,Inf?rieur ou ?gal au baccalaur?at,813
+2012-13,Haute-Corse,BAC + 3,806
+2012-13,Gard,BAC + 3,757
+2012-13,Oise,BAC + 3,757
+2012-13,Tarn,BAC + 2,756
+2012-13,Aube,BAC + 5,751
+2012-13,Bas-Rhin,Inf?rieur ou ?gal au baccalaur?at,744
+2012-13,Territoire de Belfort,BAC + 3,742
+2012-13,Territoire de Belfort,BAC + 5,727
+2012-13,Gard,BAC + 2,684
+2012-13,Aube,BAC + 3,635
+2012-13,Territoire de Belfort,BAC + 4,634
+2012-13,Vaucluse,BAC + 5,623
+2012-13,Vaucluse,BAC + 4,619
+2012-13,Puy-de-D?me,Inf?rieur ou ?gal au baccalaur?at,615
+2012-13,Meurthe-et-Moselle,Inf?rieur ou ?gal au baccalaur?at,615
+2012-13,Polyn?sie Fran?aise,BAC + 3,614
+2012-13,Hauts-de-Seine,Inf?rieur ou ?gal au baccalaur?at,596
+2012-13,Loire-Atlantique,Inf?rieur ou ?gal au baccalaur?at,595
+2012-13,Polyn?sie Fran?aise,BAC + 2,578
+2012-13,Haute-Corse,BAC + 2,546
+2012-13,Haute-Corse,BAC + 5,520
+2012-13,Aube,BAC + 4,505
+2012-13,Loiret,BAC + 6 et plus,503
+2012-13,Guadeloupe,Inf?rieur ou ?gal au baccalaur?at,478
+2012-13,H?rault,Inf?rieur ou ?gal au baccalaur?at,469
+2012-13,Seine-Saint-Denis,Inf?rieur ou ?gal au baccalaur?at,459
+2012-13,Mayotte,BAC + 1,459
+2012-13,Oise,BAC + 2,450
+2012-13,Haute-Corse,BAC + 4,445
+2012-13,Oise,BAC + 1,432
+2012-13,Bouches-du-Rh?ne,Inf?rieur ou ?gal au baccalaur?at,430
+2012-13,Pyr?n?es-Atlantiques,BAC + 6 et plus,425
+2012-13,Nouvelle-Cal?donie,BAC + 2,414
+2012-13,Seine-Maritime,Inf?rieur ou ?gal au baccalaur?at,407
+2012-13,Pyr?n?es-Orientales,BAC + 6 et plus,403
+2012-13,Val-d'Oise,BAC + 6 et plus,392
+2012-13,Ille-et-Vilaine,Inf?rieur ou ?gal au baccalaur?at,382
+2012-13,Essonne,Inf?rieur ou ?gal au baccalaur?at,381
+2012-13,Haute-Vienne,Inf?rieur ou ?gal au baccalaur?at,379
+2012-13,Val-de-Marne,Inf?rieur ou ?gal au baccalaur?at,378
+2012-13,Alpes-Maritimes,Inf?rieur ou ?gal au baccalaur?at,366
+2012-13,Nouvelle-Cal?donie,BAC + 3,357
+2012-13,La R?union,BAC + 6 et plus,313
+2012-13,Savoie,Inf?rieur ou ?gal au baccalaur?at,309
+2012-13,Loiret,Inf?rieur ou ?gal au baccalaur?at,301
+2012-13,Oise,BAC + 6 et plus,297
+2012-13,Aube,BAC + 1,291
+2012-13,Pas-de-Calais,Inf?rieur ou ?gal au baccalaur?at,288
+2012-13,Loire,Inf?rieur ou ?gal au baccalaur?at,285
+2012-13,Moselle,BAC + 5,282
+2012-13,Sarthe,BAC + 6 et plus,278
+2012-13,Polyn?sie Fran?aise,BAC + 4,269
+2012-13,Tarn,BAC + 4,263
+2012-13,Hautes-Pyr?n?es,BAC + 5,259
+2012-13,Charente-Maritime,Inf?rieur ou ?gal au baccalaur?at,258
+2012-13,Marne,Inf?rieur ou ?gal au baccalaur?at,255
+2012-13,Var,BAC + 6 et plus,249
+2012-13,Somme,Inf?rieur ou ?gal au baccalaur?at,248
+2012-13,Aube,BAC + 2,246
+2012-13,C?te-d'Or,Inf?rieur ou ?gal au baccalaur?at,244
+2012-13,Territoire de Belfort,BAC + 1,243
+2012-13,Pyr?n?es-Atlantiques,Inf?rieur ou ?gal au baccalaur?at,243
+2012-13,Hautes-Pyr?n?es,BAC + 3,238
+2012-13,Vaucluse,Inf?rieur ou ?gal au baccalaur?at,226
+2012-13,Territoire de Belfort,BAC + 2,225
+2012-13,Charente-Maritime,BAC + 6 et plus,221
+2012-13,Hautes-Pyr?n?es,BAC + 1,221
+2012-13,Moselle,BAC + 4,219
+2012-13,Is?re,Inf?rieur ou ?gal au baccalaur?at,211
+2012-13,Hautes-Pyr?n?es,BAC + 4,210
+2012-13,Polyn?sie Fran?aise,Inf?rieur ou ?gal au baccalaur?at,207
+2012-13,Maine-et-Loire,Inf?rieur ou ?gal au baccalaur?at,202
+2012-13,Var,Inf?rieur ou ?gal au baccalaur?at,197
+2012-13,Nouvelle-Cal?donie,Inf?rieur ou ?gal au baccalaur?at,192
+2012-13,Moselle,BAC + 3,183
+2012-13,Haut-Rhin,BAC + 6 et plus,179
+2012-13,Vaucluse,BAC + 6 et plus,176
+2012-13,Pas-de-Calais,BAC + 6 et plus,173
+2012-13,Haute-Corse,BAC + 6 et plus,171
+2012-13,Indre-et-Loire,Inf?rieur ou ?gal au baccalaur?at,169
+2012-13,Hautes-Pyr?n?es,BAC + 2,166
+2012-13,Morbihan,BAC + 6 et plus,165
+2012-13,Calvados,Inf?rieur ou ?gal au baccalaur?at,164
+2012-13,Haut-Rhin,Inf?rieur ou ?gal au baccalaur?at,164
+2012-13,Aube,BAC + 6 et plus,162
+2012-13,Cher,BAC + 5,156
+2012-13,Mayotte,BAC + 2,148
+2012-13,Loir-et-Cher,BAC + 5,145
+2012-13,Loir-et-Cher,BAC + 3,145
+2012-13,Loir-et-Cher,BAC + 4,143
+2012-13,Sarthe,Inf?rieur ou ?gal au baccalaur?at,143
+2012-13,Morbihan,Inf?rieur ou ?gal au baccalaur?at,142
+2012-13,Cher,BAC + 3,134
+2012-13,Finist?re,Inf?rieur ou ?gal au baccalaur?at,132
+2012-13,Territoire de Belfort,BAC + 6 et plus,132
+2012-13,Loir-et-Cher,BAC + 1,132
+2012-13,Cher,BAC + 4,130
+2012-13,Tarn,BAC + 5,119
+2012-13,Val-d'Oise,Inf?rieur ou ?gal au baccalaur?at,116
+2012-13,Moselle,BAC + 1,112
+2012-13,Haute-Corse,Inf?rieur ou ?gal au baccalaur?at,109
+2012-13,Loir-et-Cher,BAC + 2,92
+2012-13,Moselle,BAC + 2,89
+2012-13,Yvelines,Inf?rieur ou ?gal au baccalaur?at,89
+2012-13,Nouvelle-Cal?donie,BAC + 4,85
+2012-13,Gard,BAC + 4,85
+2012-13,Polyn?sie Fran?aise,BAC + 5,75
+2012-13,Gard,BAC + 5,68
+2012-13,Doubs,Inf?rieur ou ?gal au baccalaur?at,66
+2012-13,Vienne,Inf?rieur ou ?gal au baccalaur?at,66
+2012-13,La R?union,Inf?rieur ou ?gal au baccalaur?at,65
+2012-13,Nouvelle-Cal?donie,BAC + 5,63
+2012-13,Cher,BAC + 1,62
+2012-13,Nouvelle-Cal?donie,BAC + 6 et plus,44
+2012-13,Savoie,BAC + 6 et plus,41
+2012-13,Polyn?sie Fran?aise,BAC + 6 et plus,31
+2012-13,Territoire de Belfort,Inf?rieur ou ?gal au baccalaur?at,30
+2012-13,Seine-et-Marne,Inf?rieur ou ?gal au baccalaur?at,18
+2012-13,Gard,BAC + 6 et plus,10
+2012-13,Cher,BAC + 2,6
+2012-13,Cher,BAC + 6 et plus,4
